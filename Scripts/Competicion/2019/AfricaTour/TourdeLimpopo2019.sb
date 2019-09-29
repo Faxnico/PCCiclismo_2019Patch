@@ -1,0 +1,2759 @@
+.CARRERA
+[
+	.NOMBRE		"Tour de Limpopo"
+	.CLASE		6
+	.FECHA_INICIO	[15 05 2019]
+	.IDPAIS		52
+	.IDCONT		5
+	.ID		699
+	.TIPO_ESPECIAL	3
+	.MOD_PRES	0.9
+	.ETAPAS
+	[
+		[
+			.TIPO			MONT
+			.ORIGEN		"Bela-Bela"
+			.DESTINO		"Polokwane"
+			.SIMULADOR		"SCRIPTS/ETAPAS/2019/limpopo1.bin"
+			.AVITUALLAMIENTOS	[90 ]
+			.CRONO		[]
+			.TRAMOS
+			[
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[0.0 2.0]
+					.ALTURA		[1130 1130]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[2.0 3.0]
+					.ALTURA		[1130 1138]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[3.0 4.0]
+					.ALTURA		[1138 1154]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[4.0 6.0]
+					.ALTURA		[1154 1170]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[6.0 7.0]
+					.ALTURA		[1170 1194]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[7.0 8.0]
+					.ALTURA		[1194 1250]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[8.0 9.0]
+					.ALTURA		[1250 1282]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[9.0 10.0]
+					.ALTURA		[1282 1282]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[10.0 11.0]
+					.ALTURA		[1282 1322]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[11.0 12.0]
+					.ALTURA		[1322 1346]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[12.0 13.0]
+					.ALTURA		[1346 1330]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[13.0 14.0]
+					.ALTURA		[1330 1330]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[14.0 15.0]
+					.ALTURA		[1330 1306]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[15.0 16.0]
+					.ALTURA		[1306 1266]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[16.0 17.0]
+					.ALTURA		[1266 1234]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[17.0 18.0]
+					.ALTURA		[1234 1194]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[18.0 19.0]
+					.ALTURA		[1194 1210]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[19.0 20.0]
+					.ALTURA		[1210 1218]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[20.0 22.0]
+					.ALTURA		[1218 1250]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[22.0 23.0]
+					.ALTURA		[1250 1218]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[23.0 24.0]
+					.ALTURA		[1218 1202]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[24.0 25.0]
+					.ALTURA		[1202 1218]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[25.0 26.0]
+					.ALTURA		[1218 1202]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[26.0 27.0]
+					.ALTURA		[1202 1178]
+				]
+				[
+					.EVENTO		MVOL
+					.NOMBRE		"Modimolle"
+					.KILOMETRO		[27.0 28.0]
+					.ALTURA		[1178 1162]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[28.0 30.2]
+					.ALTURA		[1162 1210]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[30.2 32.2]
+					.ALTURA		[1210 1194]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[32.2 33.0]
+					.ALTURA		[1194 1194]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[33.0 34.0]
+					.ALTURA		[1194 1210]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[34.0 35.0]
+					.ALTURA		[1210 1186]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[35.0 36.0]
+					.ALTURA		[1186 1170]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[36.0 37.0]
+					.ALTURA		[1170 1162]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[37.0 38.0]
+					.ALTURA		[1162 1162]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[38.0 40.0]
+					.ALTURA		[1162 1178]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[40.0 43.0]
+					.ALTURA		[1178 1154]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[43.0 43.9]
+					.ALTURA		[1154 1138]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[43.9 44.9]
+					.ALTURA		[1138 1138]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[44.9 46.9]
+					.ALTURA		[1138 1170]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[46.9 47.9]
+					.ALTURA		[1170 1178]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[47.9 48.9]
+					.ALTURA		[1178 1170]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[48.9 49.9]
+					.ALTURA		[1170 1170]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[49.9 50.9]
+					.ALTURA		[1170 1178]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[50.9 52.9]
+					.ALTURA		[1178 1210]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[52.9 53.9]
+					.ALTURA		[1210 1218]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[53.9 54.9]
+					.ALTURA		[1218 1186]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[54.9 55.9]
+					.ALTURA		[1186 1162]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[55.9 56.9]
+					.ALTURA		[1162 1154]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[56.9 57.9]
+					.ALTURA		[1154 1162]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[57.9 58.9]
+					.ALTURA		[1162 1162]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[58.9 65.9]
+					.ALTURA		[1162 1106]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[65.9 66.9]
+					.ALTURA		[1106 1114]
+				]
+				[
+					.EVENTO		MVOL
+					.NOMBRE		"Mookgophong"
+					.KILOMETRO		[66.9 68.1]
+					.ALTURA		[1114 1114]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[68.1 74.1]
+					.ALTURA		[1114 1114]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[74.1 75.1]
+					.ALTURA		[1114 1106]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[75.1 80.1]
+					.ALTURA		[1106 1106]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[80.1 81.1]
+					.ALTURA		[1106 1098]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[81.1 82.1]
+					.ALTURA		[1098 1098]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[82.1 84.1]
+					.ALTURA		[1098 1114]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[84.1 85.1]
+					.ALTURA		[1114 1114]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[85.1 87.1]
+					.ALTURA		[1114 1130]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[87.1 88.1]
+					.ALTURA		[1130 1162]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[88.1 89.1]
+					.ALTURA		[1162 1170]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[89.1 90.1]
+					.ALTURA		[1170 1170]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[90.1 92.1]
+					.ALTURA		[1170 1154]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[92.1 93.1]
+					.ALTURA		[1154 1162]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[93.1 99.1]
+					.ALTURA		[1162 1114]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[99.1 100.1]
+					.ALTURA		[1114 1114]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[100.1 101.1]
+					.ALTURA		[1114 1106]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[101.1 102.1]
+					.ALTURA		[1106 1106]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[102.1 104.1]
+					.ALTURA		[1106 1090]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[104.1 105.1]
+					.ALTURA		[1090 1074]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[105.1 106.1]
+					.ALTURA		[1074 1066]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[106.1 108.1]
+					.ALTURA		[1066 1066]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[108.1 109.1]
+					.ALTURA		[1066 1058]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[109.1 110.1]
+					.ALTURA		[1058 1066]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[110.1 111.1]
+					.ALTURA		[1066 1066]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[111.1 112.1]
+					.ALTURA		[1066 1074]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[112.1 113.1]
+					.ALTURA		[1074 1074]
+				]
+				[
+					.EVENTO		MVOL
+					.NOMBRE		"Mokopane"
+					.KILOMETRO		[113.1 116.1]
+					.ALTURA		[1074 1098]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[116.1 118.1]
+					.ALTURA		[1098 1098]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[118.1 119.1]
+					.ALTURA		[1098 1114]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[119.1 120.1]
+					.ALTURA		[1114 1122]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[120.1 121.1]
+					.ALTURA		[1122 1138]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[121.1 123.1]
+					.ALTURA		[1138 1154]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[123.1 124.1]
+					.ALTURA		[1154 1170]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[124.1 125.1]
+					.ALTURA		[1170 1178]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[125.1 126.1]
+					.ALTURA		[1178 1202]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[126.1 129.1]
+					.ALTURA		[1202 1250]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[129.1 130.0]
+					.ALTURA		[1250 1250]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[130.0 131.0]
+					.ALTURA		[1250 1274]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[131.0 133.0]
+					.ALTURA		[1274 1306]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[133.0 134.0]
+					.ALTURA		[1306 1314]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[134.0 135.0]
+					.ALTURA		[1314 1330]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[135.0 136.0]
+					.ALTURA		[1330 1338]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[136.0 137.0]
+					.ALTURA		[1338 1354]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[137.0 138.0]
+					.ALTURA		[1354 1394]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[138.0 139.0]
+					.ALTURA		[1394 1426]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[139.0 140.0]
+					.ALTURA		[1426 1450]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[140.0 141.0]
+					.ALTURA		[1450 1482]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[141.0 143.0]
+					.ALTURA		[1482 1562]
+				]
+				[
+					.EVENTO		PRT3
+					.NOMBRE		"KOM"
+					.KILOMETRO		[143.0 143.4]
+					.ALTURA		[1562 1570]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[143.4 145.0]
+					.ALTURA		[1570 1514]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[145.0 146.0]
+					.ALTURA		[1514 1482]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[146.0 149.0]
+					.ALTURA		[1482 1434]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[149.0 150.0]
+					.ALTURA		[1434 1410]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[150.0 151.0]
+					.ALTURA		[1410 1394]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[151.0 153.0]
+					.ALTURA		[1394 1378]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[153.0 154.0]
+					.ALTURA		[1378 1378]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[154.0 155.0]
+					.ALTURA		[1378 1362]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[155.0 156.0]
+					.ALTURA		[1362 1338]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[156.0 158.0]
+					.ALTURA		[1338 1354]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[158.0 159.0]
+					.ALTURA		[1354 1346]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[159.0 160.0]
+					.ALTURA		[1346 1346]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[160.0 162.0]
+					.ALTURA		[1346 1330]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[162.0 163.0]
+					.ALTURA		[1330 1314]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[163.0 164.0]
+					.ALTURA		[1314 1306]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[164.0 165.0]
+					.ALTURA		[1306 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[165.0 166.0]
+					.ALTURA		[1290 1298]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[166.0 167.0]
+					.ALTURA		[1298 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[167.0 168.0]
+					.ALTURA		[1290 1274]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[168.0 169.0]
+					.ALTURA		[1274 1274]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[169.0 170.0]
+					.ALTURA		[1274 1282]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[170.0 171.0]
+					.ALTURA		[1282 1266]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[171.0 172.0]
+					.ALTURA		[1266 1282]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[172.0 173.2]
+					.ALTURA		[1282 1282]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[173.2 174.2]
+					.ALTURA		[1282 1306]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[174.2 174.7]
+					.ALTURA		[1306 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[174.7 175.7]
+					.ALTURA		[1290 1306]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[175.7 176.9]
+					.ALTURA		[1306 1282]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[176.9 178.1]
+					.ALTURA		[1282 1282]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[178.1 179.1]
+					.ALTURA		[1282 1290]
+				]
+				[
+					.EVENTO		MFIN
+					.NOMBRE		"Polokwane"
+					.KILOMETRO		[179.1 180.3]
+					.ALTURA		[1290 1282]
+				]
+			]
+		]
+		[
+			.TIPO			LLAN
+			.ORIGEN		"Polokwane"
+			.DESTINO		"Tzaneen"
+			.SIMULADOR		"SCRIPTS/ETAPAS/2019/limpopo2.bin"
+			.AVITUALLAMIENTOS	[]
+			.CRONO		[]
+			.TRAMOS
+			[
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[0.0 1.2]
+					.ALTURA		[1290 1314]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[1.2 2.2]
+					.ALTURA		[1314 1314]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[2.2 4.6]
+					.ALTURA		[1314 1370]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[4.6 5.6]
+					.ALTURA		[1370 1346]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[5.6 6.2]
+					.ALTURA		[1346 1362]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[6.2 6.9]
+					.ALTURA		[1362 1370]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[6.9 8.1]
+					.ALTURA		[1370 1330]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[8.1 9.1]
+					.ALTURA		[1330 1322]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[9.1 10.1]
+					.ALTURA		[1322 1298]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[10.1 11.1]
+					.ALTURA		[1298 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[11.1 12.1]
+					.ALTURA		[1290 1274]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[12.1 14.1]
+					.ALTURA		[1274 1258]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[14.1 15.1]
+					.ALTURA		[1258 1258]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[15.1 16.1]
+					.ALTURA		[1258 1282]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[16.1 16.5]
+					.ALTURA		[1282 1298]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[16.5 17.1]
+					.ALTURA		[1298 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[17.1 19.1]
+					.ALTURA		[1290 1258]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[19.1 20.1]
+					.ALTURA		[1258 1266]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[20.1 21.1]
+					.ALTURA		[1266 1282]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[21.1 22.5]
+					.ALTURA		[1282 1322]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[22.5 23.1]
+					.ALTURA		[1322 1306]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[23.1 24.1]
+					.ALTURA		[1306 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[24.1 25.1]
+					.ALTURA		[1290 1298]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[25.1 26.1]
+					.ALTURA		[1298 1314]
+				]
+				[
+					.EVENTO		MVOL
+					.NOMBRE		"Makweng"
+					.KILOMETRO		[26.1 26.5]
+					.ALTURA		[1314 1314]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[26.5 27.1]
+					.ALTURA		[1314 1314]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[27.1 28.1]
+					.ALTURA		[1314 1306]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[28.1 29.1]
+					.ALTURA		[1306 1330]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[29.1 31.1]
+					.ALTURA		[1330 1314]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[31.1 32.1]
+					.ALTURA		[1314 1330]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[32.1 33.1]
+					.ALTURA		[1330 1362]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[33.1 34.1]
+					.ALTURA		[1362 1346]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[34.1 34.5]
+					.ALTURA		[1346 1346]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[34.5 35.7]
+					.ALTURA		[1346 1282]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[35.7 36.1]
+					.ALTURA		[1282 1282]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[36.1 37.1]
+					.ALTURA		[1282 1266]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[37.1 38.1]
+					.ALTURA		[1266 1234]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[38.1 39.0]
+					.ALTURA		[1234 1234]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[39.0 40.0]
+					.ALTURA		[1234 1194]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[40.0 41.0]
+					.ALTURA		[1194 1226]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[41.0 42.0]
+					.ALTURA		[1226 1250]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[42.0 43.0]
+					.ALTURA		[1250 1282]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[43.0 43.8]
+					.ALTURA		[1282 1322]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[43.8 44.2]
+					.ALTURA		[1322 1298]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[44.2 45.0]
+					.ALTURA		[1298 1330]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[45.0 46.0]
+					.ALTURA		[1330 1338]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[46.0 47.2]
+					.ALTURA		[1338 1338]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[47.2 48.2]
+					.ALTURA		[1338 1354]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[48.2 50.2]
+					.ALTURA		[1354 1418]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[50.2 51.1]
+					.ALTURA		[1418 1482]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[51.1 51.5]
+					.ALTURA		[1482 1498]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[51.5 52.1]
+					.ALTURA		[1498 1498]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[52.1 53.1]
+					.ALTURA		[1498 1530]
+				]
+				[
+					.EVENTO		PRT3
+					.NOMBRE		"KOM"
+					.KILOMETRO		[53.1 54.1]
+					.ALTURA		[1530 1546]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[54.1 55.3]
+					.ALTURA		[1546 1522]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[55.3 56.2]
+					.ALTURA		[1522 1474]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[56.2 57.2]
+					.ALTURA		[1474 1402]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[57.2 58.3]
+					.ALTURA		[1402 1370]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[58.3 59.5]
+					.ALTURA		[1370 1442]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[59.5 61.1]
+					.ALTURA		[1442 1506]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[61.1 62.1]
+					.ALTURA		[1506 1466]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[62.1 63.0]
+					.ALTURA		[1466 1394]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[63.0 63.4]
+					.ALTURA		[1394 1386]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[63.4 64.0]
+					.ALTURA		[1386 1410]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[64.0 65.0]
+					.ALTURA		[1410 1426]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[65.0 66.0]
+					.ALTURA		[1426 1418]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[66.0 67.0]
+					.ALTURA		[1418 1394]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[67.0 68.0]
+					.ALTURA		[1394 1434]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[68.0 69.1]
+					.ALTURA		[1434 1426]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[69.1 70.8]
+					.ALTURA		[1426 1274]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[70.8 71.7]
+					.ALTURA		[1274 1202]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[71.7 72.9]
+					.ALTURA		[1202 1154]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[72.9 74.1]
+					.ALTURA		[1154 1058]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[74.1 75.1]
+					.ALTURA		[1058 954]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[75.1 76.1]
+					.ALTURA		[954 930]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[76.1 77.1]
+					.ALTURA		[930 890]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[77.1 78.1]
+					.ALTURA		[890 882]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[78.1 79.1]
+					.ALTURA		[882 858]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[79.1 80.0]
+					.ALTURA		[858 858]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[80.0 81.0]
+					.ALTURA		[858 834]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[81.0 81.8]
+					.ALTURA		[834 794]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[81.8 82.4]
+					.ALTURA		[794 834]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[82.4 83.0]
+					.ALTURA		[834 826]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[83.0 83.4]
+					.ALTURA		[826 810]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[83.4 84.0]
+					.ALTURA		[810 834]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[84.0 85.0]
+					.ALTURA		[834 834]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[85.0 86.0]
+					.ALTURA		[834 810]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[86.0 87.0]
+					.ALTURA		[810 794]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[87.0 88.0]
+					.ALTURA		[794 794]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[88.0 89.0]
+					.ALTURA		[794 778]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[89.0 90.0]
+					.ALTURA		[778 754]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[90.0 91.4]
+					.ALTURA		[754 730]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[91.4 92.6]
+					.ALTURA		[730 786]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[92.6 92.8]
+					.ALTURA		[786 786]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[92.8 94.2]
+					.ALTURA		[786 714]
+				]
+				[
+					.EVENTO		MFIN
+					.NOMBRE		"Tzaneen"
+					.KILOMETRO		[94.2 95.0]
+					.ALTURA		[714 706]
+				]
+			]
+		]
+		[
+			.TIPO			MONT
+			.ORIGEN		"Tzaneen"
+			.DESTINO		"Coach House"
+			.SIMULADOR		"SCRIPTS/ETAPAS/2019/limpopo3.bin"
+			.AVITUALLAMIENTOS	[50 ]
+			.CRONO		[]
+			.TRAMOS
+			[
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[0.0 1.0]
+					.ALTURA		[706 738]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[1.0 2.0]
+					.ALTURA		[738 786]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[2.0 3.6]
+					.ALTURA		[786 730]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[3.6 4.6]
+					.ALTURA		[730 762]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[4.6 5.2]
+					.ALTURA		[762 746]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[5.2 5.6]
+					.ALTURA		[746 746]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[5.6 6.0]
+					.ALTURA		[746 762]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[6.0 7.0]
+					.ALTURA		[762 786]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[7.0 8.0]
+					.ALTURA		[786 754]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[8.0 9.0]
+					.ALTURA		[754 786]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[9.0 10.0]
+					.ALTURA		[786 802]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[10.0 11.0]
+					.ALTURA		[802 802]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[11.0 13.0]
+					.ALTURA		[802 786]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[13.0 14.0]
+					.ALTURA		[786 850]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[14.0 14.4]
+					.ALTURA		[850 842]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[14.4 15.4]
+					.ALTURA		[842 882]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[15.4 16.0]
+					.ALTURA		[882 882]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[16.0 17.0]
+					.ALTURA		[882 850]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[17.0 18.0]
+					.ALTURA		[850 850]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[18.0 19.0]
+					.ALTURA		[850 882]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[19.0 20.0]
+					.ALTURA		[882 890]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[20.0 21.0]
+					.ALTURA		[890 874]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[21.0 22.0]
+					.ALTURA		[874 834]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[22.0 23.0]
+					.ALTURA		[834 810]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[23.0 26.0]
+					.ALTURA		[810 786]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[26.0 27.0]
+					.ALTURA		[786 746]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[27.0 28.0]
+					.ALTURA		[746 762]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[28.0 29.0]
+					.ALTURA		[762 754]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[29.0 30.9]
+					.ALTURA		[754 770]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[30.9 31.9]
+					.ALTURA		[770 762]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[31.9 33.9]
+					.ALTURA		[762 810]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[33.9 34.3]
+					.ALTURA		[810 834]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[34.3 35.3]
+					.ALTURA		[834 770]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[35.3 36.1]
+					.ALTURA		[770 858]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[36.1 37.1]
+					.ALTURA		[858 874]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[37.1 37.9]
+					.ALTURA		[874 858]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[37.9 38.3]
+					.ALTURA		[858 882]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[38.3 39.1]
+					.ALTURA		[882 826]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[39.1 40.1]
+					.ALTURA		[826 802]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[40.1 41.1]
+					.ALTURA		[802 810]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[41.1 42.1]
+					.ALTURA		[810 810]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[42.1 44.1]
+					.ALTURA		[810 778]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[44.1 45.1]
+					.ALTURA		[778 794]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[45.1 46.1]
+					.ALTURA		[794 818]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[46.1 47.1]
+					.ALTURA		[818 778]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[47.1 48.1]
+					.ALTURA		[778 770]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[48.1 49.0]
+					.ALTURA		[770 754]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[49.0 50.0]
+					.ALTURA		[754 754]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[50.0 51.0]
+					.ALTURA		[754 746]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[51.0 52.0]
+					.ALTURA		[746 690]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[52.0 53.0]
+					.ALTURA		[690 682]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[53.0 54.0]
+					.ALTURA		[682 666]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[54.0 55.0]
+					.ALTURA		[666 658]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[55.0 56.0]
+					.ALTURA		[658 634]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[56.0 58.0]
+					.ALTURA		[634 634]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[58.0 60.0]
+					.ALTURA		[634 602]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[60.0 61.0]
+					.ALTURA		[602 610]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[61.0 62.0]
+					.ALTURA		[610 626]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[62.0 62.9]
+					.ALTURA		[626 602]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[62.9 64.7]
+					.ALTURA		[602 602]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[64.7 65.9]
+					.ALTURA		[602 538]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[65.9 66.7]
+					.ALTURA		[538 570]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[66.7 68.9]
+					.ALTURA		[570 570]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[68.9 69.9]
+					.ALTURA		[570 586]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[69.9 70.9]
+					.ALTURA		[586 618]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[70.9 71.9]
+					.ALTURA		[618 602]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[71.9 72.9]
+					.ALTURA		[602 562]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[72.9 73.3]
+					.ALTURA		[562 578]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[73.3 73.9]
+					.ALTURA		[578 578]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[73.9 74.8]
+					.ALTURA		[578 562]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[74.8 75.8]
+					.ALTURA		[562 586]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[75.8 76.8]
+					.ALTURA		[586 626]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[76.8 77.8]
+					.ALTURA		[626 650]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[77.8 78.8]
+					.ALTURA		[650 618]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[78.8 79.8]
+					.ALTURA		[618 602]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[79.8 81.4]
+					.ALTURA		[602 570]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[81.4 82.0]
+					.ALTURA		[570 546]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[82.0 83.0]
+					.ALTURA		[546 570]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[83.0 84.0]
+					.ALTURA		[570 578]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[84.0 85.9]
+					.ALTURA		[578 610]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[85.9 86.9]
+					.ALTURA		[610 570]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[86.9 88.3]
+					.ALTURA		[570 594]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[88.3 89.5]
+					.ALTURA		[594 578]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[89.5 90.5]
+					.ALTURA		[578 594]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[90.5 91.1]
+					.ALTURA		[594 594]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[91.1 92.1]
+					.ALTURA		[594 610]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[92.1 93.1]
+					.ALTURA		[610 642]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[93.1 94.2]
+					.ALTURA		[642 610]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[94.2 96.0]
+					.ALTURA		[610 762]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[96.0 97.0]
+					.ALTURA		[762 826]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[97.0 97.9]
+					.ALTURA		[826 882]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[97.9 98.9]
+					.ALTURA		[882 962]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[98.9 100.1]
+					.ALTURA		[962 1034]
+				]
+				[
+					.EVENTO		PRT2
+					.NOMBRE		"Coach House"
+					.KILOMETRO		[100.1 100.6]
+					.ALTURA		[1034 1090]
+				]
+				[
+					.EVENTO		MFIN
+					.NOMBRE		"Coach House"
+					.KILOMETRO		[100.6 100.8]
+					.ALTURA		[1090 1114]
+				]
+			]
+		]
+		[
+			.TIPO			LLAN
+			.ORIGEN		"Tzaneen"
+			.DESTINO		"Polokwane"
+			.SIMULADOR		"SCRIPTS/ETAPAS/2019/limpopo4.bin"
+			.AVITUALLAMIENTOS	[58 ]
+			.CRONO		[]
+			.TRAMOS
+			[
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[0.0 1.0]
+					.ALTURA		[706 738]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[1.0 2.0]
+					.ALTURA		[738 786]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[2.0 3.6]
+					.ALTURA		[786 730]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[3.6 6.0]
+					.ALTURA		[730 754]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[6.0 6.9]
+					.ALTURA		[754 794]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[6.9 7.9]
+					.ALTURA		[794 794]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[7.9 8.9]
+					.ALTURA		[794 810]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[8.9 9.9]
+					.ALTURA		[810 842]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[9.9 12.9]
+					.ALTURA		[842 818]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[12.9 13.9]
+					.ALTURA		[818 826]
+				]
+				[
+					.EVENTO		MVOL
+					.NOMBRE		"Sprint"
+					.KILOMETRO		[13.9 14.5]
+					.ALTURA		[826 850]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[14.5 14.9]
+					.ALTURA		[850 866]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[14.9 15.9]
+					.ALTURA		[866 858]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[15.9 16.9]
+					.ALTURA		[858 890]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[16.9 17.9]
+					.ALTURA		[890 898]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[17.9 18.8]
+					.ALTURA		[898 930]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[18.8 19.8]
+					.ALTURA		[930 938]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[19.8 20.8]
+					.ALTURA		[938 1034]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[20.8 21.8]
+					.ALTURA		[1034 1146]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[21.8 22.8]
+					.ALTURA		[1146 1194]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[22.8 23.8]
+					.ALTURA		[1194 1274]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[23.8 24.7]
+					.ALTURA		[1274 1386]
+				]
+				[
+					.EVENTO		PRT3
+					.NOMBRE		"KOM"
+					.KILOMETRO		[24.7 25.5]
+					.ALTURA		[1386 1434]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[25.5 26.1]
+					.ALTURA		[1434 1426]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[26.1 27.1]
+					.ALTURA		[1426 1434]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[27.1 28.1]
+					.ALTURA		[1434 1402]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[28.1 29.1]
+					.ALTURA		[1402 1426]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[29.1 30.0]
+					.ALTURA		[1426 1434]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[30.0 31.0]
+					.ALTURA		[1434 1418]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[31.0 31.6]
+					.ALTURA		[1418 1378]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[31.6 32.0]
+					.ALTURA		[1378 1394]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[32.0 33.0]
+					.ALTURA		[1394 1466]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[33.0 33.8]
+					.ALTURA		[1466 1506]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[33.8 34.2]
+					.ALTURA		[1506 1490]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[34.2 35.0]
+					.ALTURA		[1490 1474]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[35.0 36.0]
+					.ALTURA		[1474 1418]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[36.0 36.9]
+					.ALTURA		[1418 1370]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[36.9 37.9]
+					.ALTURA		[1370 1418]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[37.9 39.9]
+					.ALTURA		[1418 1530]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[39.9 40.9]
+					.ALTURA		[1530 1554]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[40.9 41.9]
+					.ALTURA		[1554 1538]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[41.9 42.9]
+					.ALTURA		[1538 1498]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[42.9 43.7]
+					.ALTURA		[1498 1498]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[43.7 45.0]
+					.ALTURA		[1498 1418]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[45.0 46.0]
+					.ALTURA		[1418 1370]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[46.0 47.0]
+					.ALTURA		[1370 1346]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[47.0 49.0]
+					.ALTURA		[1346 1346]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[49.0 51.0]
+					.ALTURA		[1346 1314]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[51.0 52.0]
+					.ALTURA		[1314 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[52.0 53.0]
+					.ALTURA		[1290 1242]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[53.0 54.0]
+					.ALTURA		[1242 1226]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[54.0 55.0]
+					.ALTURA		[1226 1194]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[55.0 56.0]
+					.ALTURA		[1194 1226]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[56.0 56.9]
+					.ALTURA		[1226 1234]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[56.9 57.9]
+					.ALTURA		[1234 1266]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[57.9 58.9]
+					.ALTURA		[1266 1282]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[58.9 60.5]
+					.ALTURA		[1282 1346]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[60.5 61.3]
+					.ALTURA		[1346 1362]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[61.3 62.9]
+					.ALTURA		[1362 1338]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[62.9 64.1]
+					.ALTURA		[1338 1314]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[64.1 65.7]
+					.ALTURA		[1314 1330]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[65.7 67.1]
+					.ALTURA		[1330 1306]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[67.1 69.1]
+					.ALTURA		[1306 1322]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[69.1 70.1]
+					.ALTURA		[1322 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[70.1 71.1]
+					.ALTURA		[1290 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[71.1 72.5]
+					.ALTURA		[1290 1322]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[72.5 74.1]
+					.ALTURA		[1322 1282]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[74.1 75.1]
+					.ALTURA		[1282 1266]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[75.1 76.1]
+					.ALTURA		[1266 1258]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[76.1 76.5]
+					.ALTURA		[1258 1258]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[76.5 77.5]
+					.ALTURA		[1258 1282]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[77.5 78.3]
+					.ALTURA		[1282 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[78.3 79.9]
+					.ALTURA		[1290 1258]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[79.9 81.1]
+					.ALTURA		[1258 1258]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[81.1 82.1]
+					.ALTURA		[1258 1266]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[82.1 83.1]
+					.ALTURA		[1266 1282]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[83.1 85.1]
+					.ALTURA		[1282 1298]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[85.1 87.1]
+					.ALTURA		[1298 1338]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[87.1 88.1]
+					.ALTURA		[1338 1370]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[88.1 89.1]
+					.ALTURA		[1370 1346]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[89.1 90.1]
+					.ALTURA		[1346 1370]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[90.1 91.0]
+					.ALTURA		[1370 1354]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[91.0 92.0]
+					.ALTURA		[1354 1330]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[92.0 93.0]
+					.ALTURA		[1330 1314]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[93.0 94.0]
+					.ALTURA		[1314 1306]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[94.0 95.1]
+					.ALTURA		[1306 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[95.1 95.5]
+					.ALTURA		[1290 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[95.5 95.9]
+					.ALTURA		[1290 1298]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[95.9 96.0]
+					.ALTURA		[1298 1298]
+				]
+				[
+					.EVENTO		TEXT
+					.NOMBRE		"#1"
+					.KILOMETRO		[96.0 96.4]
+					.ALTURA		[1298 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[96.4 97.7]
+					.ALTURA		[1290 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[97.7 98.1]
+					.ALTURA		[1290 1298]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[98.1 98.2]
+					.ALTURA		[1298 1298]
+				]
+				[
+					.EVENTO		TEXT
+					.NOMBRE		"#2"
+					.KILOMETRO		[98.2 98.6]
+					.ALTURA		[1298 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[98.6 99.9]
+					.ALTURA		[1290 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[99.9 100.3]
+					.ALTURA		[1290 1298]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[100.3 100.5]
+					.ALTURA		[1298 1298]
+				]
+				[
+					.EVENTO		TEXT
+					.NOMBRE		"#3"
+					.KILOMETRO		[100.5 100.9]
+					.ALTURA		[1298 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[100.9 102.1]
+					.ALTURA		[1290 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[102.1 102.5]
+					.ALTURA		[1290 1298]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[102.5 102.7]
+					.ALTURA		[1298 1298]
+				]
+				[
+					.EVENTO		TEXT
+					.NOMBRE		"#4"
+					.KILOMETRO		[102.7 103.1]
+					.ALTURA		[1298 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[103.1 104.3]
+					.ALTURA		[1290 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[104.3 104.7]
+					.ALTURA		[1290 1298]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[104.7 104.9]
+					.ALTURA		[1298 1298]
+				]
+				[
+					.EVENTO		TEXT
+					.NOMBRE		"#5"
+					.KILOMETRO		[104.9 105.3]
+					.ALTURA		[1298 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[105.3 106.6]
+					.ALTURA		[1290 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[106.6 107.0]
+					.ALTURA		[1290 1298]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[107.0 107.1]
+					.ALTURA		[1298 1298]
+				]
+				[
+					.EVENTO		TEXT
+					.NOMBRE		"#6"
+					.KILOMETRO		[107.1 107.5]
+					.ALTURA		[1298 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[107.5 108.8]
+					.ALTURA		[1290 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[108.8 109.2]
+					.ALTURA		[1290 1298]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[109.2 109.3]
+					.ALTURA		[1298 1298]
+				]
+				[
+					.EVENTO		TEXT
+					.NOMBRE		"#7"
+					.KILOMETRO		[109.3 109.7]
+					.ALTURA		[1298 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[109.7 111.0]
+					.ALTURA		[1290 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[111.0 111.4]
+					.ALTURA		[1290 1298]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[111.4 111.6]
+					.ALTURA		[1298 1298]
+				]
+				[
+					.EVENTO		TEXT
+					.NOMBRE		"#8"
+					.KILOMETRO		[111.6 112.0]
+					.ALTURA		[1298 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[112.0 113.2]
+					.ALTURA		[1290 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[113.2 113.6]
+					.ALTURA		[1290 1298]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[113.6 113.8]
+					.ALTURA		[1298 1298]
+				]
+				[
+					.EVENTO		TEXT
+					.NOMBRE		"#9"
+					.KILOMETRO		[113.8 114.2]
+					.ALTURA		[1298 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[114.2 115.4]
+					.ALTURA		[1290 1290]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[115.4 115.8]
+					.ALTURA		[1290 1298]
+				]
+				[
+					.EVENTO		NULL
+					.NOMBRE		""
+					.KILOMETRO		[115.8 116.0]
+					.ALTURA		[1298 1298]
+				]
+				[
+					.EVENTO		MFIN
+					.NOMBRE		"Polokwane"
+					.KILOMETRO		[116.0 116.4]
+					.ALTURA		[1298 1290]
+				]
+			]
+		]
+	]
+
+	.PREDECISION
+	[
+		.MIN_CORREDORES_SUBEQUIPO 4
+		.MAX_CORREDORES_SUBEQUIPO 6
+		.FICHERO "SCRIPTS/PREDECISION/limpopo.dat"
+	]
+]
